@@ -37,7 +37,7 @@ This project has 2 components:-
 
 ## How can you run the project
 
--**Install dependencies:**
+- **Install dependencies:**
   pip install -r requirements.txt
   
 - **Run locally:**
