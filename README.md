@@ -49,4 +49,4 @@ This project has 2 components:-
 
 **Author**
 - [LinkedIn](https://www.linkedin.com/in/prashanttrivedi370/)
-- [GitHub]([url](https://github.com/160303105370))
+- [GitHub](https://github.com/160303105370)
