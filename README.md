@@ -30,12 +30,9 @@ This project has 2 components:-
 
 ##  Repository Structure
 
-├── streamlit_app.py # Main Streamlit app
-├── requirements.txt # Python dependencies
-├── report/ # PDF report & appendix
-│ ├── time_on_page_revenue_report.pdf
-│ └── code_appendix.pdf
-└── README.md # This file
+
+<img width="365" height="176" alt="image" src="https://github.com/user-attachments/assets/fbbc6867-fe61-4746-bfc9-da5de72efe28" />
+
 
 
 ## How can you run the project
