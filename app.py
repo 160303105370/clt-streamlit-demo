@@ -76,11 +76,6 @@ with tab_clt:
     ax3.set_xlabel("z"); ax3.set_ylabel("Density")
     st.pyplot(fig3, use_container_width=True)
 
-    st.info(
-        "Why this matters: Even when raw data is skewed or discrete, **averages** tend to be normal. "
-        "This explains why many real-world analyses assume normality for mean-based statistics."
-    )
-
 
 # TAB 2 — YOUR DATA (Upload) - CLT & Uncertainty on your CSV
 
@@ -191,3 +186,4 @@ with tab_data:
                 st.text(model_multi.summary())
             else:
                 st.write("Multiple OLS skipped (need at least one of 'browser'/'platform'/'site' plus 'revenue' & 'top').")
+
