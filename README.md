@@ -31,8 +31,7 @@ This project has 2 components:-
 ##  Repository Structure
 
 
-<img width="365" height="176" alt="image" src="https://github.com/user-attachments/assets/fbbc6867-fe61-4746-bfc9-da5de72efe28" />
-
+<img width="376" height="97" alt="image" src="https://github.com/user-attachments/assets/2a89dc2e-be85-4927-a9d2-07db2a886bce" />
 
 
 ## How can you run the project
